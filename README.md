@@ -1,0 +1,2 @@
+# 3D-Clock
+I have created a digital clock using VPython in Python that displays Indian Standard Time (IST). This project is a testament to my coding skills and understanding of Python and VPython. It’s not just a timepiece, but an innovative way to visualize time. This clock can be a useful tool for anyone needing to keep track of IST. I’m proud to present this fascinating blend of technology and timekeeping.
